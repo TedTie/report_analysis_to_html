@@ -1,0 +1,10 @@
+interface:
+  display_name: "Report Generator"
+  short_description: "数据洞察到HTML报告的生成流程"
+  icon_small: "./assets/logo.png"
+  icon_large: "./assets/logo.png"
+  brand_color: "#005BFF"
+  default_prompt: "Use $report-generator to turn my data and management notes into a confirmed report and shareable HTML."
+
+policy:
+  allow_implicit_invocation: true
